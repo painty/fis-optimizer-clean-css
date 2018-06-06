@@ -17,6 +17,6 @@
         "test" : "mocha test/ut --recursive"
     },
     "dependencies" : {
-        "clean-css" : "3.3.6"
+        "clean-css" : "4.1.11"
     }
 }
